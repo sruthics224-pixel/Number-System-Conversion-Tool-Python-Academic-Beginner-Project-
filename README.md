@@ -1,3 +1,2 @@
-Number System Conversion Tool (Python-Academic / Beginner Project)
 Developed a menu-driven Python program to convert numbers between decimal, binary, octal, and hexadecimal. Implemented modular functions for base conversion. Applied input validation and exception handling to manage invalid inputs. Strengthened understanding of loops, conditionals, functions, and number systems.
 Tech Stack: Python
